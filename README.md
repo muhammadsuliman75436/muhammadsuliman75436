@@ -21,7 +21,6 @@ I build modern web interfaces using Vue.js (Inertia/Nuxt), manage server infrast
 
 <div align="center">
 
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -33,6 +32,7 @@ I build modern web interfaces using Vue.js (Inertia/Nuxt), manage server infrast
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
@@ -59,3 +59,10 @@ I build modern web interfaces using Vue.js (Inertia/Nuxt), manage server infrast
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulaimanbarki&theme=radical" alt="Sulaiman Barki's GitHub Summary Card" />
   </a>
 </p>
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulaimanbarki@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-suliman-a7029b137)
+
+</div>
